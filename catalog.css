@@ -1,0 +1,62 @@
+.promo{
+    background-color: slategrey;
+    text-align: center;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    margin-right: -10px;
+    margin-left: -10px;
+    margin-top: -10px;
+}
+img{
+    width: 200px;
+    padding-left: 100px;
+    /* padding-top: 20px; */
+}
+.upfront{
+    justify-content: center;
+    word-spacing: 40px;
+    margin-top:21px;
+    margin-left: 135px;
+    /* padding-left: 100px; */
+}
+.search{
+    display: flex;
+    margin-left:20px;
+    margin-top: 21px;
+    width: 10px;
+    opacity: 0.8;
+}
+.sec:hover{
+    opacity: 0.8;
+}
+.acc:hover{
+    opacity: 0.8;
+}
+.shp:hover{
+    opacity: 0.8;
+}
+.home{
+    color: black;
+    text-decoration: none;
+}
+.cat{
+    color: black;
+    text-decoration: none;
+}
+.collect{
+    color: black;
+    text-decoration: none;
+}
+.Pcodes{
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.pd{
+    text-align: center;
+    
+}
